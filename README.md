@@ -42,10 +42,10 @@ creation, driving business success.
 ---
 ## Snippets
 - Page1
-[Dashboard Page 1](/Images/page_1.png)
+[Dashboard Page1](/Images/page_1.png)
 
 - Page2
-[Dashboard Page 2](/Images/page_2.png)
+[Dashboard Page2](/Images/page_2.png)
 
 
 ```
